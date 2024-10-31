@@ -1,4 +1,4 @@
-# Alex Frame: Python Web Framework built for learning purposes
+# Alex Frame: Python Web Framework built only for test
 
 ![purpose](https://img.shields.io/badge/purpose-learning-green.svg)
 ![PyPI](https://img.shields.io/pypi/v/alexgalt_framework.svg)
